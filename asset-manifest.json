@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jitsi-video-conference/static/css/main.073c9b0a.css",
-    "main.js": "/jitsi-video-conference/static/js/main.412544e4.js",
-    "static/js/787.dcb15753.chunk.js": "/jitsi-video-conference/static/js/787.dcb15753.chunk.js",
-    "static/media/logo.svg": "/jitsi-video-conference/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/jitsi-video-conference/index.html",
-    "main.073c9b0a.css.map": "/jitsi-video-conference/static/css/main.073c9b0a.css.map",
-    "main.412544e4.js.map": "/jitsi-video-conference/static/js/main.412544e4.js.map",
-    "787.dcb15753.chunk.js.map": "/jitsi-video-conference/static/js/787.dcb15753.chunk.js.map"
+    "main.css": "/VI/static/css/main.073c9b0a.css",
+    "main.js": "/VI/static/js/main.3bb59707.js",
+    "static/js/787.dcb15753.chunk.js": "/VI/static/js/787.dcb15753.chunk.js",
+    "static/media/logo.svg": "/VI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/VI/index.html",
+    "main.073c9b0a.css.map": "/VI/static/css/main.073c9b0a.css.map",
+    "main.3bb59707.js.map": "/VI/static/js/main.3bb59707.js.map",
+    "787.dcb15753.chunk.js.map": "/VI/static/js/787.dcb15753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.412544e4.js"
+    "static/js/main.3bb59707.js"
   ]
 }
